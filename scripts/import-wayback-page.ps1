@@ -24,8 +24,14 @@ function Ensure-DirForFile([string] $path) {
 }
 
 function Map-OriginalUrlToLocalPath([string] $originalUrl) {
-  # https://a/b -> https/a/b
-  return ($originalUrl -replace '^https?://', { param($m) $m.Value.TrimEnd(':','/').Replace(':','') + '/' }) -replace '://','/'
+  # Turn an absolute URL into a filesystem-friendly relative path segment.
+  # Examples:
+  # - https://fonts.googleapis.com/css2 -> https/fonts.googleapis.com/css2
+  # - http://example.com/a -> http/example.com/a
+  $u = $originalUrl
+  if ($u.StartsWith('https://')) { return 'https/' + $u.Substring(8) }
+  if ($u.StartsWith('http://')) { return 'http/' + $u.Substring(7) }
+  return $u
 }
 
 function Download-AssetIfMissing([string] $waybackAssetUrl, [string] $localRelPath) {
