@@ -2,24 +2,32 @@ name: Deploy to Hostinger
 
 on:
   push:
-    branches: [ "main" ]
+    branches: ["main"]
+  workflow_dispatch: {}
+
+concurrency:
+  group: deploy-hostinger
+  cancel-in-progress: true
 
 jobs:
-  ftp-deploy:
+  deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      # Upload repository contents to public_html
-      - name: FTP Deploy
+      - name: Deploy via FTP to public_html
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           server-dir: /public_html/
+          timeout: 60000
           local-dir: ./
           exclude: |
             **/.git*
             **/.github/**
-            **/README*
+            **/scripts/**
+            **/*.bak
+            **/webcopy-origin.txt
