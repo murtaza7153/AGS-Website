@@ -1,0 +1,368 @@
+Uri: https://archive.org/includes/athena.js
+File Name: C:\Users\hp\Downloads\web.archive.org\includes\athena.js
+Content Type: application/x-javascript
+
+Uri: https://archive.org/services/img/archivebot
+File Name: C:\Users\hp\Downloads\web.archive.org\services\img\archivebot
+Content Type: image/jpeg
+
+Uri: https://archive.org/services/img/archiveteam
+File Name: C:\Users\hp\Downloads\web.archive.org\services\img\archiveteam
+Content Type: image/jpeg
+
+Uri: https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3
+File Name: C:\Users\hp\Downloads\web.archive.org\_static\css\banner-styles.css
+Content Type: text/css
+
+Uri: https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv
+File Name: C:\Users\hp\Downloads\web.archive.org\_static\css\iconochive.css
+Content Type: text/css
+
+Uri: https://web-static.archive.org/_static/fonts/Iconochive-Regular.eot
+File Name: C:\Users\hp\Downloads\web.archive.org\_static\fonts\Iconochive-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://web-static.archive.org/_static/fonts/Iconochive-Regular.svg
+File Name: C:\Users\hp\Downloads\web.archive.org\_static\fonts\Iconochive-Regular.svg
+Content Type: image/svg+xml
+
+Uri: https://web-static.archive.org/_static/fonts/Iconochive-Regular.ttf
+File Name: C:\Users\hp\Downloads\web.archive.org\_static\fonts\Iconochive-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://web-static.archive.org/_static/fonts/Iconochive-Regular.woff
+File Name: C:\Users\hp\Downloads\web.archive.org\_static\fonts\Iconochive-Regular.woff
+Content Type: font/woff
+
+Uri: https://web-static.archive.org/_static/images/loading.gif
+File Name: C:\Users\hp\Downloads\web.archive.org\_static\images\loading.gif
+Content Type: image/gif
+
+Uri: https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png
+File Name: C:\Users\hp\Downloads\web.archive.org\_static\images\toolbar\wayback-toolbar-logo-100.png
+Content Type: image/png
+
+Uri: https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-150.png
+File Name: C:\Users\hp\Downloads\web.archive.org\_static\images\toolbar\wayback-toolbar-logo-150.png
+Content Type: image/png
+
+Uri: https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-200.png
+File Name: C:\Users\hp\Downloads\web.archive.org\_static\images\toolbar\wayback-toolbar-logo-200.png
+Content Type: image/png
+
+Uri: https://web-static.archive.org/_static/images/web-screenshot.svg
+File Name: C:\Users\hp\Downloads\web.archive.org\_static\images\web-screenshot.svg
+Content Type: image/svg+xml
+
+Uri: https://web-static.archive.org/_static/js/bundle-playback.js?v=2N_sDSC0
+File Name: C:\Users\hp\Downloads\web.archive.org\_static\js\bundle-playback.js
+Content Type: application/javascript
+
+Uri: https://web-static.archive.org/_static/js/ruffle/ruffle.js
+File Name: C:\Users\hp\Downloads\web.archive.org\_static\js\ruffle\ruffle.js
+Content Type: text/javascript
+
+Uri: https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC
+File Name: C:\Users\hp\Downloads\web.archive.org\_static\js\wombat.js
+Content Type: text/javascript
+
+Uri: https://web.archive.org/web/20250703021302js_/https://www.google.com/recaptcha/api.js?render=6LcPvLEZAAAAAPeNjrf-r7Phy6I2ezBIK8V2uDP0&ver=3.0
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250703021302js_\https\www.google.com\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://web.archive.org/web/20250912045437cs_/https://code.jquery.com/ui/1.12.1/themes/smoothness/jquery-ui.css
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912045437cs_\https\code.jquery.com\ui\1.12.1\themes\smoothness\jquery-ui.css
+Content Type: text/css
+
+Uri: https://web.archive.org/web/20250912051234/https://www.agsgolfandsports.com/
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912051234\https\www.agsgolfandsports.com\index.htm
+Content Type: text/html
+
+Uri: https://web.archive.org/web/20250912074914cs_/https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700;1,400;1,700&display=swap
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912074914cs_\https\fonts.googleapis.com\css2
+Content Type: text/css
+
+Uri: https://web.archive.org/web/20250912230552cs_/https://www.agsgolfandsports.com/wp-content/plugins/lightbox-photoswipe/assets/ps5/styles/main.css?ver=5.7.2
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230552cs_\https\www.agsgolfandsports.com\wp-content\plugins\lightbox-photoswipe\assets\ps5\styles\main.css
+Content Type: text/css
+
+Uri: https://web.archive.org/web/20250912230552im_/https://www.agsgolfandsports.com/wp-content/themes/blankslate/img/icon-golf-ball.png
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230552im_\https\www.agsgolfandsports.com\wp-content\themes\blankslate\img\icon-golf-ball.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20250912230552im_/https://www.agsgolfandsports.com/wp-content/uploads/2020/03/AGS-Staff-on-Green_optimized-1536x410.png
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230552im_\https\www.agsgolfandsports.com\wp-content\uploads\2020\03\AGS-Staff-on-Green_optimized-1536x410.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20250912230552im_/https://www.agsgolfandsports.com/wp-content/uploads/2020/03/tagline-300x16.png
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230552im_\https\www.agsgolfandsports.com\wp-content\uploads\2020\03\tagline-300x16.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20250912230552im_/https://www.agsgolfandsports.com/wp-content/uploads/2023/11/AGS-1200-Club-24-2-Cropped.jpg
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230552im_\https\www.agsgolfandsports.com\wp-content\uploads\2023\11\AGS-1200-Club-24-2-Cropped.jpg
+Content Type: image/jpeg
+
+Uri: https://web.archive.org/web/20250912230552js_/https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js?ver=6.8.2
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230552js_\https\cdnjs.cloudflare.com\ajax\libs\tiny-slider\2.9.2\min\tiny-slider.js
+Content Type: application/javascript
+
+Uri: https://web.archive.org/web/20250912230553cs_/https://www.agsgolfandsports.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.1
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230553cs_\https\www.agsgolfandsports.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://web.archive.org/web/20250912230553cs_/https://www.agsgolfandsports.com/wp-content/themes/blankslate/style.css?ver=1743788788
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230553cs_\https\www.agsgolfandsports.com\wp-content\themes\blankslate\style.css
+Content Type: text/css
+
+Uri: https://web.archive.org/web/20250912230553im_/https://www.agsgolfandsports.com/wp-content/themes/blankslate/img/logo.png
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230553im_\https\www.agsgolfandsports.com\wp-content\themes\blankslate\img\logo.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20250912230553im_/https://www.agsgolfandsports.com/wp-content/uploads/2020/03/Retail-Centers-Commercial.jpg
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230553im_\https\www.agsgolfandsports.com\wp-content\uploads\2020\03\Retail-Centers-Commercial.jpg
+Content Type: image/jpeg
+
+Uri: https://web.archive.org/web/20250912230553im_/https://www.agsgolfandsports.com/wp-content/uploads/2020/10/DJI_0118_optimized-300x200.jpg
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230553im_\https\www.agsgolfandsports.com\wp-content\uploads\2020\10\DJI_0118_optimized-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://web.archive.org/web/20250912230553im_/https://www.agsgolfandsports.com/wp-content/uploads/2024/02/AGS-1246-Caribe-4-square-150x150.webp
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230553im_\https\www.agsgolfandsports.com\wp-content\uploads\2024\02\AGS-1246-Caribe-4-square-150x150.webp
+Content Type: image/webp
+
+Uri: https://web.archive.org/web/20250912230553js_/https://www.agsgolfandsports.com/wp-content/themes/blankslate/js/scripts.js?ver=6.8.2
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230553js_\https\www.agsgolfandsports.com\wp-content\themes\blankslate\js\scripts.js
+Content Type: text/javascript
+
+Uri: https://web.archive.org/web/20250912230553js_/https://www.agsgolfandsports.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230553js_\https\www.agsgolfandsports.com\wp-includes\js\dist\i18n.min.js
+Content Type: text/javascript
+
+Uri: https://web.archive.org/web/20250912230554im_/https://www.agsgolfandsports.com/wp-content/uploads/2020/03/AGS-Staff-on-Green_optimized.png
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230554im_\https\www.agsgolfandsports.com\wp-content\uploads\2020\03\AGS-Staff-on-Green_optimized.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20250912230554im_/https://www.agsgolfandsports.com/wp-content/uploads/2020/04/logo-csie-europe.png
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230554im_\https\www.agsgolfandsports.com\wp-content\uploads\2020\04\logo-csie-europe.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20250912230554im_/https://www.agsgolfandsports.com/wp-content/uploads/2020/04/logo-koa.png
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230554im_\https\www.agsgolfandsports.com\wp-content\uploads\2020\04\logo-koa.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20250912230554im_/https://www.agsgolfandsports.com/wp-content/uploads/2020/07/Tile-Modular-Advantage_cropped-150x150.jpg
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230554im_\https\www.agsgolfandsports.com\wp-content\uploads\2020\07\Tile-Modular-Advantage_cropped-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://web.archive.org/web/20250912230554js_/https://www.agsgolfandsports.com/wp-content/plugins/cookie-notice/js/front.min.js?ver=2.5.7
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230554js_\https\www.agsgolfandsports.com\wp-content\plugins\cookie-notice\js\front.min.js
+Content Type: text/javascript
+
+Uri: https://web.archive.org/web/20250912230554js_/https://www.agsgolfandsports.com/wp-content/themes/blankslate/parallaxie/parallaxie.js
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230554js_\https\www.agsgolfandsports.com\wp-content\themes\blankslate\parallaxie\parallaxie.js
+Content Type: text/javascript
+
+Uri: https://web.archive.org/web/20250912230554js_/https://www.agsgolfandsports.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230554js_\https\www.agsgolfandsports.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: text/javascript
+
+Uri: https://web.archive.org/web/20250912230555cs_/https://www.agsgolfandsports.com/wp-content/themes/blankslate/fontawesome/css/all.css
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230555cs_\https\www.agsgolfandsports.com\wp-content\themes\blankslate\fontawesome\css\all.css
+Content Type: text/css
+
+Uri: https://web.archive.org/web/20250912230555im_/https://cdn.knorrweb.com/sites/_shared/userway_icon.svg
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230555im_\https\cdn.knorrweb.com\sites\_shared\userway_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://web.archive.org/web/20250912230555im_/https://www.agsgolfandsports.com/wp-content/uploads/2020/03/Cruise-Ships-River-Boats-150x150.jpg
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230555im_\https\www.agsgolfandsports.com\wp-content\uploads\2020\03\Cruise-Ships-River-Boats-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://web.archive.org/web/20250912230555im_/https://www.agsgolfandsports.com/wp-content/uploads/2020/03/Hotels-Resorts.jpg
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230555im_\https\www.agsgolfandsports.com\wp-content\uploads\2020\03\Hotels-Resorts.jpg
+Content Type: image/jpeg
+
+Uri: https://web.archive.org/web/20250912230555im_/https://www.agsgolfandsports.com/wp-content/uploads/2020/05/Univ-of-IL-1-300x201.jpg
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230555im_\https\www.agsgolfandsports.com\wp-content\uploads\2020\05\Univ-of-IL-1-300x201.jpg
+Content Type: image/jpeg
+
+Uri: https://web.archive.org/web/20250912230555im_/https://www.agsgolfandsports.com/wp-content/uploads/2023/11/AGS-2023-ModGolf-Podcast-Graphic-with-Scott-Lundmark.jpg
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230555im_\https\www.agsgolfandsports.com\wp-content\uploads\2023\11\AGS-2023-ModGolf-Podcast-Graphic-with-Scott-Lundmark.jpg
+Content Type: image/jpeg
+
+Uri: https://web.archive.org/web/20250912230555jm_/https://www.agsgolfandsports.com/wp-content/plugins/lightbox-photoswipe/assets/ps5/frontend.min.js?ver=5.7.2
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230555jm_\https\www.agsgolfandsports.com\wp-content\plugins\lightbox-photoswipe\assets\ps5\frontend.min.js
+Content Type: text/javascript
+
+Uri: https://web.archive.org/web/20250912230556cs_/https://www.agsgolfandsports.com/wp-includes/css/dist/block-library/style.min.css?ver=6.8.2
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230556cs_\https\www.agsgolfandsports.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://web.archive.org/web/20250912230556im_/https://www.agsgolfandsports.com/wp-content/themes/blankslate/img/course-parallax-sky.jpg
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230556im_\https\www.agsgolfandsports.com\wp-content\themes\blankslate\img\course-parallax-sky.jpg
+Content Type: image/jpeg
+
+Uri: https://web.archive.org/web/20250912230556im_/https://www.agsgolfandsports.com/wp-content/uploads/2020/03/tagline.png
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230556im_\https\www.agsgolfandsports.com\wp-content\uploads\2020\03\tagline.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20250912230556im_/https://www.agsgolfandsports.com/wp-content/uploads/2020/04/logo-bbb.png
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230556im_\https\www.agsgolfandsports.com\wp-content\uploads\2020\04\logo-bbb.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20250912230556im_/https://www.agsgolfandsports.com/wp-content/uploads/2020/04/logo-wwa.png
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230556im_\https\www.agsgolfandsports.com\wp-content\uploads\2020\04\logo-wwa.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20250912230556im_/https://www.agsgolfandsports.com/wp-content/uploads/2020/04/MiniLinks.jpg
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230556im_\https\www.agsgolfandsports.com\wp-content\uploads\2020\04\MiniLinks.jpg
+Content Type: image/jpeg
+
+Uri: https://web.archive.org/web/20250912230558im_/https://www.agsgolfandsports.com/wp-content/uploads/2020/03/Parks-Campgrounds.jpg
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230558im_\https\www.agsgolfandsports.com\wp-content\uploads\2020\03\Parks-Campgrounds.jpg
+Content Type: image/jpeg
+
+Uri: https://web.archive.org/web/20250912230558im_/https://www.agsgolfandsports.com/wp-content/uploads/2020/04/Amusement-Renovate.jpg
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230558im_\https\www.agsgolfandsports.com\wp-content\uploads\2020\04\Amusement-Renovate.jpg
+Content Type: image/jpeg
+
+Uri: https://web.archive.org/web/20250912230558im_/https://www.agsgolfandsports.com/wp-content/uploads/2020/07/Tile-Modular-Advantage_cropped.jpg
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230558im_\https\www.agsgolfandsports.com\wp-content\uploads\2020\07\Tile-Modular-Advantage_cropped.jpg
+Content Type: image/jpeg
+
+Uri: https://web.archive.org/web/20250912230558im_/https://www.agsgolfandsports.com/wp-content/uploads/2024/02/AGS-1246-Caribe-4-square-300x300.webp
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230558im_\https\www.agsgolfandsports.com\wp-content\uploads\2024\02\AGS-1246-Caribe-4-square-300x300.webp
+Content Type: image/webp
+
+Uri: https://web.archive.org/web/20250912230558js_/https://www.agsgolfandsports.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.1
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230558js_\https\www.agsgolfandsports.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: text/javascript
+
+Uri: https://web.archive.org/web/20250912230558js_/https://www.agsgolfandsports.com/wp-includes/js/jquery/ui/accordion.min.js?ver=1.13.3
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230558js_\https\www.agsgolfandsports.com\wp-includes\js\jquery\ui\accordion.min.js
+Content Type: text/javascript
+
+Uri: https://web.archive.org/web/20250912230559cs_/https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/tiny-slider.css?ver=6.8.2
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230559cs_\https\cdnjs.cloudflare.com\ajax\libs\tiny-slider\2.9.2\tiny-slider.css
+Content Type: text/css
+
+Uri: https://web.archive.org/web/20250912230559im_/https://seal-westernmichigan.bbb.org/logo/ruhzbus/adventure-golf-and-sports-14002584.png
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230559im_\https\seal-westernmichigan.bbb.org\logo\ruhzbus\adventure-golf-and-sports-14002584.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20250912230559im_/https://www.agsgolfandsports.com/wp-content/uploads/2020/03/Hotels-Resorts-150x150.jpg
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230559im_\https\www.agsgolfandsports.com\wp-content\uploads\2020\03\Hotels-Resorts-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://web.archive.org/web/20250912230559im_/https://www.agsgolfandsports.com/wp-content/uploads/2020/03/Parks-Campgrounds-150x150.jpg
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230559im_\https\www.agsgolfandsports.com\wp-content\uploads\2020\03\Parks-Campgrounds-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://web.archive.org/web/20250912230559im_/https://www.agsgolfandsports.com/wp-content/uploads/2020/04/Build-3.jpg
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230559im_\https\www.agsgolfandsports.com\wp-content\uploads\2020\04\Build-3.jpg
+Content Type: image/jpeg
+
+Uri: https://web.archive.org/web/20250912230559im_/https://www.agsgolfandsports.com/wp-content/uploads/2020/04/logo-csie-america.png
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230559im_\https\www.agsgolfandsports.com\wp-content\uploads\2020\04\logo-csie-america.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20250912230559js_/https://www.agsgolfandsports.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230559js_\https\www.agsgolfandsports.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: text/javascript
+
+Uri: https://web.archive.org/web/20250912230600cs_/https://www.agsgolfandsports.com/wp-content/plugins/cookie-notice/css/front.min.css?ver=2.5.7
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230600cs_\https\www.agsgolfandsports.com\wp-content\plugins\cookie-notice\css\front.min.css
+Content Type: text/css
+
+Uri: https://web.archive.org/web/20250912230600im_/https://www.agsgolfandsports.com/wp-content/uploads/2020/03/AGS-Staff-on-Green_optimized-1024x273.png
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230600im_\https\www.agsgolfandsports.com\wp-content\uploads\2020\03\AGS-Staff-on-Green_optimized-1024x273.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20250912230600im_/https://www.agsgolfandsports.com/wp-content/uploads/2020/03/AGS-Staff-on-Green_optimized-300x80.png
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230600im_\https\www.agsgolfandsports.com\wp-content\uploads\2020\03\AGS-Staff-on-Green_optimized-300x80.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20250912230600im_/https://www.agsgolfandsports.com/wp-content/uploads/2020/03/Cruise-Ships-River-Boats.jpg
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230600im_\https\www.agsgolfandsports.com\wp-content\uploads\2020\03\Cruise-Ships-River-Boats.jpg
+Content Type: image/jpeg
+
+Uri: https://web.archive.org/web/20250912230600im_/https://www.agsgolfandsports.com/wp-content/uploads/2021/01/AGS-1095-Cen-Tex-News-Image_IMG_9488_optimized-300x225.jpg
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230600im_\https\www.agsgolfandsports.com\wp-content\uploads\2021\01\AGS-1095-Cen-Tex-News-Image_IMG_9488_optimized-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://web.archive.org/web/20250912230600im_/https://www.agsgolfandsports.com/wp-content/uploads/2024/02/AGS-1246-Caribe-4-square.webp
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230600im_\https\www.agsgolfandsports.com\wp-content\uploads\2024\02\AGS-1246-Caribe-4-square.webp
+Content Type: image/webp
+
+Uri: https://web.archive.org/web/20250912230600js_/https://www.agsgolfandsports.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.1
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230600js_\https\www.agsgolfandsports.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: text/javascript
+
+Uri: https://web.archive.org/web/20250912230600js_/https://www.agsgolfandsports.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230600js_\https\www.agsgolfandsports.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: text/javascript
+
+Uri: https://web.archive.org/web/20250912230601im_/https://www.agsgolfandsports.com/wp-content/themes/blankslate/img/course-parallax-green.png
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230601im_\https\www.agsgolfandsports.com\wp-content\themes\blankslate\img\course-parallax-green.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20250912230601im_/https://www.agsgolfandsports.com/wp-content/uploads/2020/04/logo-iaapa.png
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230601im_\https\www.agsgolfandsports.com\wp-content\uploads\2020\04\logo-iaapa.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20250912230601im_/https://www.agsgolfandsports.com/wp-content/uploads/2020/04/logo-nrpa.png
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230601im_\https\www.agsgolfandsports.com\wp-content\uploads\2020\04\logo-nrpa.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20250912230601im_/https://www.agsgolfandsports.com/wp-content/uploads/2020/04/logo-recon.png
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230601im_\https\www.agsgolfandsports.com\wp-content\uploads\2020\04\logo-recon.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20250912230601im_/https://www.agsgolfandsports.com/wp-content/uploads/2020/04/MiniLinks-150x150.jpg
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230601im_\https\www.agsgolfandsports.com\wp-content\uploads\2020\04\MiniLinks-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://web.archive.org/web/20250912230601js_/https://www.agsgolfandsports.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.1
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230601js_\https\www.agsgolfandsports.com\wp-content\plugins\contact-form-7\modules\recaptcha\index.js
+Content Type: text/javascript
+
+Uri: https://web.archive.org/web/20250912230601js_/https://www.agsgolfandsports.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.13.3
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230601js_\https\www.agsgolfandsports.com\wp-includes\js\jquery\ui\tabs.min.js
+Content Type: text/javascript
+
+Uri: https://web.archive.org/web/20250912230602im_/https://www.agsgolfandsports.com/wp-content/themes/blankslate/img/tagline.png
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230602im_\https\www.agsgolfandsports.com\wp-content\themes\blankslate\img\tagline.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20250912230602im_/https://www.agsgolfandsports.com/wp-content/uploads/2020/03/Dinosaur-Adventure-Golf-150x150.jpg
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230602im_\https\www.agsgolfandsports.com\wp-content\uploads\2020\03\Dinosaur-Adventure-Golf-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://web.archive.org/web/20250912230602im_/https://www.agsgolfandsports.com/wp-content/uploads/2020/03/Retail-Centers-Commercial-150x150.jpg
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230602im_\https\www.agsgolfandsports.com\wp-content\uploads\2020\03\Retail-Centers-Commercial-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://web.archive.org/web/20250912230602im_/https://www.agsgolfandsports.com/wp-content/uploads/2020/04/logo-arda.png
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230602im_\https\www.agsgolfandsports.com\wp-content\uploads\2020\04\logo-arda.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20250912230602im_/https://www.agsgolfandsports.com/wp-content/uploads/2020/04/logo-scg.png
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230602im_\https\www.agsgolfandsports.com\wp-content\uploads\2020\04\logo-scg.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20250912230602js_/https://www.agsgolfandsports.com/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230602js_\https\www.agsgolfandsports.com\wp-includes\js\dist\hooks.min.js
+Content Type: text/javascript
+
+Uri: https://web.archive.org/web/20250912230603im_/https://www.agsgolfandsports.com/wp-content/uploads/2020/03/Dinosaur-Adventure-Golf.jpg
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230603im_\https\www.agsgolfandsports.com\wp-content\uploads\2020\03\Dinosaur-Adventure-Golf.jpg
+Content Type: image/jpeg
+
+Uri: https://web.archive.org/web/20250912230603js_/https://www.agsgolfandsports.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Users\hp\Downloads\web.archive.org\web\20250912230603js_\https\www.agsgolfandsports.com\wp-includes\js\jquery\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://wiki.archiveteam.org/images/e/e6/Archiveteam.jpg
+File Name: C:\Users\hp\Downloads\web.archive.org\images\e\e6\Archiveteam.jpg
+Content Type: image/jpeg
+
