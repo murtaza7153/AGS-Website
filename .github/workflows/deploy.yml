@@ -23,7 +23,9 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           port: 21
-          server-dir: /public_html/
+          # Hostinger FTP users are commonly chrooted to public_html already.
+          # Using /public_html/ here would create public_html/public_html/.
+          server-dir: /
           timeout: 60000
           local-dir: ./
           exclude: |
