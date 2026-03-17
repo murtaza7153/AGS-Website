@@ -71,6 +71,21 @@ function Rewrite-Content([string] $content, [string] $primaryHost) {
   })
   $out = $newOut
 
+  # 4) Unwrap Wayback-wrapped tel/mailto links
+  $newOut = [Regex]::Replace($out, 'https?://web\.archive\.org/web/\d+/(tel:[^\s"''<>]+)', {
+    param($m)
+    $changedRef.Value = $true
+    return $m.Groups[1].Value
+  })
+  $out = $newOut
+
+  $newOut = [Regex]::Replace($out, 'https?://web\.archive\.org/web/\d+/(mailto:[^\s"''<>]+)', {
+    param($m)
+    $changedRef.Value = $true
+    return $m.Groups[1].Value
+  })
+  $out = $newOut
+
   return @{
     Content = $out
     Changed = $changedRef.Value
